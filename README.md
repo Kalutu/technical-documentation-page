@@ -8,6 +8,8 @@ This is an HTML document representing a technical documentation page about CSS. 
 - [Modules](#modules)
 - [Solving Common CSS Problems](#solving-common-css-problems)
 - [See Also](#see-also)
+- [How to View the Page](#How-to-View-the-Page)
+- [Contributions](#contributions)
 - [Credits](#credits)
 
 ## Introduction
@@ -28,4 +30,13 @@ In this section, common CSS problems are addressed, and CSS solutions are provid
 ## See Also
 The "See Also" section includes a link to the Mozilla Developer Network (MDN) CSS documentation. It serves as a comprehensive reference for CSS, providing detailed documentation on CSS features and properties.
 
+## How to View the Page
+You can view the page by opening the index.html file in your web browser. The page is designed to be responsive, so it should look good on any device.
 
+## Contributions
+Contributions to the project are welcome. Feel free to submit a pull request with any improvements or fixes.
+
+## Credits
+HTML and CSS code written by Kalutu Daniel.
+Page content sourced from MDN Web Docs.
+Readme created by Kalutu Daniel.
