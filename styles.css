@@ -48,8 +48,10 @@ header {
 }
 
 pre {
+    width: 100%;
     padding-top: 15px;
     background-color: #ddd;
+    overflow: auto;
 }
 
 a{
