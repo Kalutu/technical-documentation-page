@@ -37,6 +37,6 @@ You can view the page by opening the index.html file in your web browser. The pa
 Contributions to the project are welcome. Feel free to submit a pull request with any improvements or fixes.
 
 ## Credits
-HTML and CSS code written by Kalutu Daniel.
-Page content sourced from MDN Web Docs.
-Readme created by Kalutu Daniel.
+- HTML and CSS code written by Kalutu Daniel.
+- Page content sourced from MDN Web Docs.
+- Readme created by Kalutu Daniel.
