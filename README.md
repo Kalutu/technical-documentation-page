@@ -1,6 +1,9 @@
 # Technical Documentation Page
 This is an HTML document representing a technical documentation page about CSS. It provides information and resources related to Cascading Style Sheets.
 
+## Preview
+![Technical Documentation Website Preview](images/tech-documentation.PNG)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
